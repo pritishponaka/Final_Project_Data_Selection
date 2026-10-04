@@ -5,7 +5,7 @@ An object-oriented, statistically-rigorous companion analysis to the
 Hampshire bedrock well water as the exact environmental confounder the
 capstone named and deliberately left out of scope.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/<repo-name>/blob/main/A_New_Hampshire_Paradox_The_Arsenic_Extension.ipynb)
+[![Open In Colab](https://drive.google.com/file/d/1shF1Br65fvOnxYDM50G1O9Qg3GiG-z8U/view?usp=sharing)
 
 ---
 
