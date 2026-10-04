@@ -5,7 +5,7 @@ An object-oriented, statistically-rigorous companion analysis to the
 Hampshire bedrock well water as the exact environmental confounder the
 capstone named and deliberately left out of scope.
 
-[![Open In Colab](https://drive.google.com/file/d/1shF1Br65fvOnxYDM50G1O9Qg3GiG-z8U/view?usp=sharing)
+[![Open In Colab](https://drive.google.com/file/d/1shF1Br65fvOnxYDM50G1O9Qg3GiG-z8U/view?usp=sharing)]
 
 ---
 
